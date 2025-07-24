@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib
+docx2txt
+python-docx
+openpyxl
