@@ -32,6 +32,11 @@ pip install -r requirements.txt
 - **Launch the Streamlit web app:**</br>
 python main.py
 
+### Web Link
+
+- https://student-result-performance-analysis.streamlit.app/</br>
+- App may be in sleep mode
+
 
 ## Contributing
 
