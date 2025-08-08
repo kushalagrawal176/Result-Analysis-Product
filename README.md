@@ -47,3 +47,8 @@ Feel free to open issues or fork the repository to enhance the features or fix b
 This project does not currently specify a license.
 
 *For academic use and result analysis automation only. Maintained by kushalagrawal176.*
+
+
+<h1>Sample Image for illustration</h1>
+<img width="1899" height="687" alt="Screenshot 2025-08-08 175200" src="https://github.com/user-attachments/assets/54f8c907-159b-4407-8262-e4271af24a5a" />
+<img width="1910" height="792" alt="Screenshot 2025-08-08 175256" src="https://github.com/user-attachments/assets/2751c098-5540-4d7d-8d35-f62559a1608f" />
